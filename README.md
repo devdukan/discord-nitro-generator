@@ -1,4 +1,4 @@
-[Click Here]([https://www.github.com/dukanzin]) 
+([https://www.github.com/dukanzin]) 
 Fixed.
 
 
