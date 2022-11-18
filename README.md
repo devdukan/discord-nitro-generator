@@ -1,7 +1,3 @@
-([https://www.github.com/dukanzin]) 
-
-Fixed.
-
 
 # Globy Gen
 
@@ -35,7 +31,6 @@ Medal.tv api (new)
 ## Used By
 
 - polsat tv
-- your mom
 - verified pornhub users
 
 
