@@ -1,7 +1,4 @@
-
-![Logo](https://cdn.discordapp.com/icons/988873429929295942/db6e253bcf5cdebdff81f5ae04d3cd4d.png?size=4096)
-
-[Click Here](https://discord.gg/brasil) 
+[Click Here]([https://www.github.com/dukanzin]) 
 Fixed.
 
 
